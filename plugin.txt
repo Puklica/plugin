@@ -1,0 +1,6 @@
+-dávalo by to kredity za hraní pokud by byl hráč připojen do týmu, ve spectate ne.
+-například 1 kredit za půl hodiny a když by se nasbíralo určitý počet kreditů mohlo by se je vyměnit za nějaký den vip.
+-viděl bych to na menu kde by byl napsaný aktuální stav kreditů,  a poté normálně pod čísly by se dalo aktivovat vip po dosažení limitu potřebného k aktivaci. 
+-preferoval bych, aby to kredity ukládalo do mysql.
+-bylo by dobré taky příkazy pro admina něco jako sm_givekredit "jméno " "počet " a sm_removekredit "jméno " "počet " + asi i aby se admin mohl podívat jaký stav kreditů má hráč mohlo by se to hodit i pro jednoduchý test zda to funguje.
+-poslední věc ten kdo si to aktivuje by se připsal do mysql tabulek které jsou u stávajícího systému na vip a ten co již má vip aktivní mu přičetlo tu dobu.
